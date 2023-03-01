@@ -1,0 +1,8 @@
+# Default ignored files
+/foldername/
+.vscode
+__pycache__
+.qt_for_python
+build
+dist
+enoji/emoji.npy
